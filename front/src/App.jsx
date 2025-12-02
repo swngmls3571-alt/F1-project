@@ -24,6 +24,7 @@ function App() {
         </button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
+          테스트
         </p>
       </div>
       <p className="read-the-docs">
