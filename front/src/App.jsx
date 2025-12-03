@@ -24,7 +24,7 @@ function App() {
         </button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
-          테스트1111111111
+          2025.12.03
         </p>
       </div>
       <p className="read-the-docs">
