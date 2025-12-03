@@ -15,7 +15,6 @@ function App() {
         <a href="https://react.dev" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
-        <p>ㅗㅗddddddd</p>
       </div>
       <h1>Vite + React</h1>
       <div className="card">
@@ -24,8 +23,7 @@ function App() {
         </button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
-          2025.12.03
-        </p>
+        </p>ㄹㄹ
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
